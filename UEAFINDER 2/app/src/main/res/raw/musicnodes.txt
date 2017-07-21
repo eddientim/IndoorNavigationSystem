@@ -1,0 +1,64 @@
+Fire Exit,Door 2,1
+Door 2,Fire Exit,1
+Room 0.30 (Practice Room),Door 2,1
+Door 2,Room 0.30 (Practice Room),1
+Room 0.20,Door 2,1
+Door 2,Room 0.20,1
+Door 2,Door,1
+Door,Door 2,1
+Room 0.19 (Editing Suite),Door,1
+Door,Room 0.19 (Editing Suite),1
+Room 0.18 (Editing Suite),Door,1
+Door,Room 0.18 (Editing Suite),1
+1.02(Tech Office),Door 3,1
+Door 3,1.02(Tech Office),1
+Room 1.04 (Vocal Booth),Door 3,1
+Door 3,Room 1.04 (Vocal Booth),1
+Room 1.01A (Recording Room),Door 3,1
+Door 3,Room 1.01A (Recording Room),1
+Room 1.05 (Store),Door 3,1
+Door 3,Room 1.05 (Store),1
+Door 3,Radio Studio Office Door,1
+Radio Studio Office Door,Door 3,1
+Room 1.01,Radio Studio Office Door,1
+Radio Studio Office Door,Room 1.01,1
+Room 1.03,Radio Studio Office Door,1
+Radio Studio Office Door,Room 1.03,1
+Room 1.03A,Radio Studio Office Door,1
+Radio Studio Office Door,Room 1.03A,1
+Radio Studio Office Door,Floor 1,1
+Floor 1,Radio Studio Office Door,1
+1.03B (Editing Suite),Floor 1,1
+Floor 1,1.03B (Editing Suite),1
+Floor 1,Stairs,1
+Stairs,Floor 1,1
+Stairs,Radio Suite Office Door,1
+Radio Suite Office Door,Stairs,1
+Room 0.27,Radio Suite Office Door,1
+Radio Suite Office Door,Room 0.27,1
+Exit,Radio Suite Office Door,1
+Radio Suite Office Door,Exit,1
+Radio Suite Office Door,Door,1
+Door,Radio Suite Office Door,1
+Door,Corridor,1
+Corridor,Door,1
+Room 0.17 (Editing Suite),Corridor,1
+Corridor,Room 0.17 (Editing Suite),1
+Room 0.16 (Editing Suite),Corridor,1
+Corridor,Room 0.16 (Editing Suite),1
+Room 0.15 (Editing Suite),Corridor,1
+Corridor,Room 0.15 (Editing Suite),1
+Room 0.14 (Editing Suite),Corridor,1
+Corridor,Room 0.14 (Editing Suite),1
+Strode Room,Corridor,1
+Corridor,Strode Room,1
+Corridor,Door to Corridor,1
+Door to Corridor,Corridor,1
+Door to Corridor,Main Entrance,1
+Main Entrance,Door to Corridor,1
+Room 0.13,Main Entrance,1
+Main Entrance,Room 0.13,1
+Room 0.11 (Editing Suite),Main Entrance,1
+Main Entrance,Room 0.11 (Editing Suite),1
+Practice Room,Main Entrance,1
+Main Entrance,Practice Room,1

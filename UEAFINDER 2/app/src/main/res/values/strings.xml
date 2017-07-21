@@ -1,0 +1,220 @@
+<resources>
+    <string name="app_name">UEAFinder</string>
+    <string-array name="locations">
+        <item>Arts 2</item>
+        <item>Arts 1</item>
+        <item>The Enterprise Centre(TEC)</item>
+        <item>Norwich Medical School(MED)</item>
+        <item>Julian Study Centre (JSC)</item>
+        <item>Lecture Theatre Building (LT)</item>
+        <item>Blackdale(DBS)</item>
+        <item>Multifaith Centre(CHAP)</item>
+        <item>Laurence Stenhouse Building(LSB)</item>
+        <item>Music Building(MUS)</item>
+        <item>Zuckerman Institute (ZICER)</item>
+    </string-array>
+    <string-array name="medical_array">
+        <item>Main Entrance</item>
+        <item>Campus Card Entrance</item>
+        <item>NHS Research Clinic</item>
+        <item>IT Suite</item>
+        <item>Movement Lab</item>
+        <item>Room 0.16</item>
+        <item>Room 0.17</item>
+        <item>Corridor</item>
+        <item>Seminar Room 0.02</item>
+        <item>Seminar Room 1.02</item>
+        <item>Seminar Room 2.02</item>
+        <item>Stairs 0</item>
+        <item>Door To Stairs</item>
+        <item>Stairs 1</item>
+        <item>Balcony 1</item>
+        <item>Balcony 2</item>
+        <item>Lift Floor 0</item>
+        <item>Lift Floor 1</item>
+        <item>Lift Floor 2</item>
+        <item>Medical Education Centre</item>
+        <item>Medical School Reception</item>
+        <item>Door</item>
+        <item>Room 1.20</item>
+        <item>Room 1.21</item>
+        <item>Room 1.22</item>
+        <item>Room 1.23</item>
+        <item>Room 1.24</item>
+        <item>Room 1.25</item>
+        <item>Room 1.26</item>
+        <item>Room 1.27</item>
+        <item>Room 1.28</item>
+        <item>Room 1.29</item>
+        <item>Room 1.32</item>
+        <item>Room 1.33</item>
+        <item>Room 1.34</item>
+        <item>Room 1.35</item>
+        <item>Room 1.36</item>
+        <item>Room 1.37</item>
+        <item>Room 1.38</item>
+        <item>Male Toilet</item>
+        <item>Female Toilet</item>
+        <item>Room 1.42</item>
+        <item>Room 1.18</item>
+        <item>Room 1.19</item>
+        <item>Admin Offices</item>
+        <item>Reception</item>
+        <item>Door To Stairs 1</item>
+        <item>Floor 1 Stairs</item>
+        <item>Academic Space 1</item>
+        <item>Academic Space</item>
+        <item>Room 2.23 Office</item>
+        <item>Room 2.16</item>
+        <item>Room 2.14</item>
+
+
+
+
+    </string-array>
+    <string-array name="bds_array">
+        <item>Main Entrance</item>
+        <item>Foyer</item>
+        <item>Double Doors</item>
+        <item>Door to Foyer</item>
+        <item>Corridor</item>
+        <item>Door</item>
+        <item>Courtyard Exit</item>
+        <item>Sisters Entrance</item>
+        <item>Meeting Room</item>
+        <item>Fire Exit</item>
+        <item>Corridor West</item>
+        <item>Corridor East</item>
+        <item>Corridor South</item>
+        <item>Corridor Central</item>
+        <item>BDS Room 0.01</item>
+        <item>BDS Room 0.08</item>
+        <item>BDS Room 0.10</item>
+        <item>BDS Room 0.12</item>
+        <item>BDS Room 0.14</item>
+        <item>BDS Room 0.17</item>
+        <item>BDS Room 0.18</item>
+        <item>BDS Room 0.21</item>
+        <item>BDS Room 0.24</item>
+        <item>BDS Room 0.27</item>
+        <item>BDS Room 0.29</item>
+        <item>BDS Room 0.32</item>
+        <item>BDS Room 0.35</item>
+        <item>BDS Room 0.36</item>
+        <item>BDS Room 0.37</item>
+
+    </string-array>
+    <string-array name="julian_array">
+        <item>Main Entrance</item>
+        <item>Lecture Room 0.1</item>
+        <item>Door to Stairs</item>
+        <item>Toilet 0.6</item>
+        <item>Toilet 0.8</item>
+        <item>Seminar Room 1.01</item>
+        <item>Seminar Room 1.02</item>
+        <item>Seminar Room 1.03</item>
+        <item>Seminar Room 2.01</item>
+        <item>Seminar Room 2.02</item>
+        <item>Seminar Room 2.03</item>
+        <item>Seminar Room 3.01</item>
+        <item>Stairs 1</item>
+        <item>Stairs 2</item>
+        <item>Stairs 3</item>
+        <item>Floor 1</item>
+        <item>Floor 2</item>
+        <item>Floor 3</item>
+        <item>Lift Floor 0</item>
+        <item>Lift Floor 1</item>
+        <item>Lift Floor 2</item>
+        <item>Lift Floor 3</item>
+        <item>Harvard Lecture Room</item>
+    </string-array>
+    <string-array name="lecture_array">
+        <item>Floor 0 Entrance</item>
+        <item>Floor 0 Stairs</item>
+        <item>Floor 01 Stairs</item>
+        <item>Floor 02 Stairs</item>
+        <item>Lift Floor 0</item>
+        <item>Lift Floor 01</item>
+        <item>Lift Floor 02</item>
+        <item>Floor 01</item>
+        <item>Floor 02</item>
+        <item>Floor 02 Entrance/Exit</item>
+
+        <item>Lecture Theatre 1</item>
+        <item>Lecture Theatre 2</item>
+        <item>Lecture Theatre 3</item>
+        <item>Lecture Theatre 4</item>
+    </string-array>
+    <string-array name="music_array">
+        <item>Main Entrance</item> 
+        <item>Practice Room</item> 
+        <item>Room 0.11 (Editing Suite)</item> 
+        <item>Room 0.13</item>
+         
+        <item>Door to Corridor</item>
+         
+        <item>Corridor</item>
+         
+        <item>Strode Room</item>
+         
+        <item>Room 0.14 (Editing Suite)</item>
+         <item>Room 0.15 (Editing Suite)</item> 
+        <item>Room 0.16 (Editing Suite)</item>
+         <item>Room 0.17 (Editing Suite)</item> 
+        <item>Door</item>
+         
+        <item>Radio Suite Office Door</item>
+         
+        <item>Room 0.27</item>
+         <item>Exit</item> 
+        <item>Stairs</item> 
+        <item>Floor 1</item>
+         
+        <item>1.03B (Editing Suite)</item>
+         <item>Room 1.03A</item> 
+        <item>Room 1.03</item>
+         
+        <item>Room 1.01</item>
+         
+        <item>Door 3</item>
+         
+        <item>Room 1.05 (Store)</item>
+         
+        <item>Room 1.01A (Recording Room)</item>
+         <item>Room 1.04 (Vocal Booth)</item> 
+        <item>Room 1.05</item>
+         <item>Room 1.02 (Tech Office)</item> 
+        <item>Room 1.05</item>
+         
+        <item>Room 0.18 (Editing Suite)</item>
+         
+        <item>Room 0.19 (Editing Suite)</item>
+         <item>Door 2</item> 
+        <item>Room 0.20</item>
+         
+        <item>Room 0.30 (Practice Room)</item>
+         
+        <item>Fire Exit</item>
+
+    </string-array>
+    <string-array name="faith_array">
+        <item>Main Entrance</item>
+        <item>Male Toilets</item>
+        <item>Female Toilets</item>
+        <item>Upstairs</item>
+        <item>Floor 1</item>
+        <item>Worship Room</item>
+        <item>Quiet Room</item>
+        <item>Downstairs</item>
+        <item>Floor 01</item>
+        <item>Catholic Chaplin Office</item>
+        <item>Common Room</item>
+        <item>Room 0.2</item>
+        <item>Room 0.1</item>
+        <item>Rightturn</item>
+        <item>Fire Exit</item>
+
+
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+Lift Floor 02,Floor 02,1
+Floor 02,Lift Floor 02,1
+Floor 02 Entrance/Exit,Floor 02,1
+Floor 02,Floor 02 Entrance/Exit,1
+Lecture Theatre 4,Floor 02,1
+Floor 02,Lecture Theatre 4,1
+Lecture Theatre 3,Floor 02,1
+Floor 02,Lecture Theatre 3,1
+Floor 02,Floor 02 Stairs,1
+Floor 02 Stairs,Floor 02,1
+Floor 02 Stairs,Floor 01 Stairs,1
+Floor 01 Stairs,Floor 02 Stairs,1
+Lift Floor 01,Floor 01,1
+Floor 01,Lift Floor 01,1
+Lecture Theatre 2,Floor 01,1
+Floor 01 Stairs,Floor 01,1
+Floor 01,Floor 01 Stairs,1
+Floor 01,Lecture Theatre 2,1
+Floor 01,Floor 0 Stairs,1
+Floor 0 Stairs,Floor 01 Stairs,1
+Floor 0 Stairs,Floor 0 Entrance,1
+Floor 0 Entrance,Floor 0 Stairs,1
+Lift Floor 0,Floor 0 Entrance,1
+Floor 0 Entrance,Lift Floor 0,1
+Lecture Theatre 1,Floor 0 Entrance,1
+Floor 0 Entrance,Lecture Theatre 1,1

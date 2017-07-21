@@ -1,0 +1,3 @@
+Medical,a -> b -> c,d -> e
+Multifath,g -> d, d -> r
+Lecture,asd -> sdsd,fdf -> sdsd

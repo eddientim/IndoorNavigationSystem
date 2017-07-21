@@ -1,0 +1,28 @@
+Fire Exit,Rightturn,1
+Rightturn,Fire Exit,1
+Common Room,Rightturn,1
+Rightturn,Common Room,1
+Rightturn,Floor 01,1
+Floor 01,Rightturn,1
+Room 0.1,Floor 01,1
+Floor 01,Room 0.1,1
+Room 0.2,Floor 01,1
+Floor 01,Room 0.2,1
+Catholic Chaplin Office,Floor 01,1
+Floor 01,Catholic Chaplin Office,1
+Floor 01,Downstairs,1
+Downstairs,Floor 01,1
+Downstairs,Main Entrance,1
+Main Entrance,Downstairs,1
+Quiet Room,Floor 1,1
+Floor 1,Quiet Room,1
+Worship Room,Floor 1,1
+Floor 1,Worship Room,1
+Floor 1,Upstairs,1
+Upstairs,Floor 1,1
+Upstairs,Main Entrance,1
+Main Entrance,Upstairs,1
+Female Toilets,Main Entrance,1
+Main Entrance,Female Toilets,1
+Male Toilets,Main Entrance,1
+Main Entrance,Male Toilets,1

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/white"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".Julian">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Julian Study Centre"
+        android:id="@+id/textView"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_marginTop="33dp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/backward_button" />
+
+    <Spinner
+        android:id="@+id/julianStart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttonsdraw"
+        android:entries="@array/bds_array"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentStart="true" />
+    <Spinner
+        android:id="@+id/julianEnd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttonsdraw"
+        android:entries="@array/bds_array"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/outputText"
+        android:elegantTextHeight="false"
+        android:layout_marginTop="44dp"
+        android:layout_below="@+id/routeButton"
+        android:layout_alignParentEnd="true"
+        android:clickable="false" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Route"
+        android:id="@+id/routeButton"
+        android:textColor="@color/white"
+        android:background="@drawable/buttonsdraw"
+        android:layout_marginTop="36dp"
+        android:layout_below="@+id/julianEnd"
+        android:layout_centerHorizontal="true"
+        android:onClick="doRoute" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Select location from dropdown"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/textView"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_marginTop="38dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Select destination from dropdown"
+        android:id="@+id/textView3"
+        android:layout_above="@+id/julianEnd"
+        android:layout_alignEnd="@+id/routeButton" />
+
+    <Button
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:id="@+id/backward_button"
+        android:background="@drawable/backbuttonsdraw"
+        android:onClick="returnToHomeFromJulian"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/textView"
+        android:nestedScrollingEnabled="true" />
+
+</RelativeLayout>

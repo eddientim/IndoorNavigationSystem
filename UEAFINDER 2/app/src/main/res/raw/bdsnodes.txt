@@ -1,0 +1,56 @@
+Meeting Room,Corridor South,1
+Corridor South,Meeting Room,1
+BDS Room 0.32,Corridor South,1
+Corridor South,BDS Room 0.32,1
+BDS Room 0.29,Corridor South,1
+Corridor South,BDS Room 0.29,1
+BDS Room 0.27,Corridor South,1
+Corridor South,BDS Room 0.27,1
+BDS Room 0.24,Corridor South,1
+Corridor South,BDS Room 0.24,1
+Corridor South,Corridor East,1
+Corridor East,Corridor South,1
+Fire Exit,Door,1
+Door,Fire Exit,1
+BDS Room 0.14,Door,1
+Door,BDS Room 0.14,1
+BDS Room 0.18,Door,1
+Door,BDS Room 0.18,1
+BDS Room 0.17,Door,1
+Door,BDS Room 0.17,1
+BDS Room 0.21,Door,1
+Door,BDS Room 0.21,1
+Door,Corridor East,1
+Corridor East,Door,1
+Corridor East,Corridor Central,1
+Corridor Central,Corridor East,1
+BDS Room 0.12,Corridor Central,1
+Corridor Central,BDS Room 0.12,1
+Courtyard Exit,Corridor Central,1
+Corridor Central,Courtyard Exit,1
+Corridor Central,Corridor West,1
+Corridor West,Corridor Central,1
+BDS Room 0.10,Corridor West,1
+Corridor West,BDS Room 0.10,1
+BDS Room 0.35,Corridor West,1
+Corridor West,BDS Room 0.35,1
+BDS Room 0.36,Corridor West,1
+Corridor West,BDS Room 0.36,1
+Corridor West,Foyer,1
+Foyer,Corridor West,1
+BDS Room 0.08,Foyer,1
+Foyer,BDS Room 0.08,1
+BDS Room 0.37,Foyer,1
+Foyer,BDS Room 0.37,1
+BDS Room 0.08,Foyer,1
+Foyer,BDS Room 0.08,1
+Sisters Entrance,Foyer,1
+Foyer,Sisters Entrance,1
+Foyer,Door to Foyer,1
+Door to Foyer,Foyer,1
+Door to Foyer,Double Doors,1
+Double Doors,Door to Foyer,1
+Double Doors,Main Entrance,1
+Main Entrance,Double Doors,1
+BDS Room 0.01,Main Entrance,1
+Main Entrance,BDS Room 0.01,1

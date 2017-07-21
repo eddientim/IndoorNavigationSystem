@@ -1,0 +1,44 @@
+Floor 3,Seminar Room 3.01,1
+Seminar Room 3.01,Floor 3,1
+Floor 3,Harvard Lecture Room,1
+Harvard Lecture Room,Floor3,1
+Floor 3,Lift Floor 3,1
+Lift Floor 3,Floor 3,1
+Floor 3,Stairs 3,1
+Stairs 3,Floor 3,1
+Stairs 3,Stairs 2,1
+Stairs 2,Stairs 3,1
+Floor 2,Seminar Room 2.01,1
+Seminar Room 2.01,Floor 2,1
+Floor 2,Seminar Room 2.02,1
+Seminar Room 2.02,Floor 2,1
+Floor 2,Seminar Room 2.03,1
+Seminar Room 2.03,Floor 2,1
+Floor 2,Lift Floor 2,1
+Lift Floor 2,Floor 2,1
+Floor 2,Stairs 2,1
+Stairs 2,Floor 2,1
+Stairs 2,Stairs 1,1
+Stairs 1,Stairs 2,1
+Floor 1,Seminar Room1.01,1
+Seminar Room 1.01,Floor 1,1
+Floor 1,Seminar Room 1.02,1
+Seminar Room 1.02,Floor 1,1
+Floor 1,Seminar Room 1.03,1
+Seminar Room 1.03,Floor 1,1
+Floor 1,Lift Floor 1,1
+Lift Floor 1,Floor 1,1
+Stairs 1,Floor 1,1
+Floor 1,Stairs 1,1
+Door to Stairs,Stairs 1,1
+Stairs 1,Door to Stairs,1
+Door to Stairs,Toilet 0.8,1
+Toilet 0.8,Door to Stairs,1
+Door to Stairs,Toilet 0.6,1
+Toilet 0.6,Door to Stairs,1
+Door to Stairs,Lift Floor 0,1
+Lift Floor 0,Door to Stairs,1
+Main Entrance,Door to Stairs,1
+Door to Stairs,Main Entrance,1
+Lecture Room 0.1,Main Entrance,1
+Main Entrance,Lecture Room 0.1,1

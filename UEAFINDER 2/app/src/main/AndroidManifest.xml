@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.edwardntim.ueafinder">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity2"></activity>
+        <activity android:name=".Medical"></activity>
+        <activity android:name=".Julian"></activity>
+        <activity android:name=".Lecture"></activity>
+        <activity android:name=".Blackdale"></activity>
+        <activity android:name=".Multifaith"></activity>
+        <activity android:name=".Music"></activity>
+        <activity android:name=".DisplayRouteActivity"></activity>
+        <activity android:name=".ShowRouteHistory"></activity>
+        <activity android:name=".SelectBuildingActivity"></activity>
+        <activity android:name=".DisplayImageActivity"></activity>
+    </application>
+
+</manifest>
