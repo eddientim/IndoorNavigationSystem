@@ -34,6 +34,7 @@ public class Multifaith extends AppCompatActivity {
         mMultiStartSpinner.setAdapter(adapter);
         mMultiEndSpinner.setAdapter(adapter);
 
+
     }
     public void doRoute(View view) throws IOException {
 
