@@ -31,3 +31,5 @@
 .DS_Store
 /performanceTest/lib
 .textmate
+.idea
+/UEAFINDER 2.zip
