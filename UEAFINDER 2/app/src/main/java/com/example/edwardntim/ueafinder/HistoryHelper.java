@@ -131,10 +131,7 @@ public class HistoryHelper
         }
     }
 
-    public static void saveRoute(String building, String route, Context context)
-    {
-
-
+    public static void saveRoute(String building, String route, Context context) {
 
             final String[] splitPackageName = building.split("\\.");
             final String buildingToSave = splitPackageName[splitPackageName.length - 1];//Split on the literal dot rather than match any characters
@@ -150,11 +147,5 @@ public class HistoryHelper
             new AlertDialog.Builder(context)
                     .setMessage(notification)
                     .show();
-
-
-
-
-
-
     }
 }
